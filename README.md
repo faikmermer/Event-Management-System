@@ -5,7 +5,7 @@ Asynchronous Programming in Node.js. The API will allow users to register for ev
 
 ## Installation
 1. Make sure you have Node.js installed. (To download Node.js: [Node.js Official Site](https://nodejs.org))
-2. Make sure you have MySQL installed. (To dowload MySQL : [MySQL](https://www.mysql.com/downloads/))
+2. Make sure you have MongoDB installed. (To dowload MySQL : [MongoDB](https://www.mongodb.com/try/download/community))
 3. Install the dependencies:  
    ```bash
    npm install  
