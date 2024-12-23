@@ -18,7 +18,6 @@ This project is a RESTful API project to manage events and participants using Au
 
 ## Table of Content
 - [Installation](#Installation)
-- [Project Dependencies](#Dependicies)
 - [Usage](#Usage)
 - [Endpoints](#Endpoints)
 - [Contributing](#Contributing)
