@@ -1,7 +1,6 @@
 # Event-Management-System
 
-It is a secure, scalable RESTful API project for managing events and participants using Authentication and Authorization techniques and 
-Asynchronous Programming in Node.js. The API will allow users to register for events, organize events, manage event details and perform asynchronous tasks such as sending confirmation emails or generating event reports.
+This project is a RESTful API project to manage events and participants using Authentication and Authorisation techniques and Asynchronous Programming in Node.js. The API allows users to register for events, organize events, manage event details, and perform asynchronous tasks such as sending confirmation emails or generating event reports.
 
 ## Installation
 1. Make sure you have Node.js installed. (To download Node.js: [Node.js Official Site](https://nodejs.org))
